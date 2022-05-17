@@ -1,5 +1,5 @@
 # ML_model
-Google colab code for generating the pickle files, and then letter predicting them.
+Google colab code for generating the pickle files, and then later predicting them.
 
 To run the model, following steps need to be followed:
 
